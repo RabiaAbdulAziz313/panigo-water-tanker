@@ -6,7 +6,7 @@ Submitted to: Sir Mohsin Ali Solangi.
 **Team:** Rabia Abdul Aziz (B2631084), Prishey Khan (B2631083), Nayab Sajid (B2631079), Shakeela (B2631096)
 
 ## Live links (after enabling GitHub Pages)
-- Portfolio website: `https://YOUR-USERNAME.github.io/YOUR-REPO/`
+- Portfolio website: `https://rabiaabdulaziz313.github.io/panigo-water-tanker/`
 - Working app: `https://YOUR-USERNAME.github.io/YOUR-REPO/app/`
 
 ## What is in this repository
